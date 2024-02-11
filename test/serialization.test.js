@@ -150,6 +150,5 @@ test('(7 pts) serializeRainbowObject', () => {
 
   const serialized = util.serialize(object);
   const deserialized = util.deserialize(serialized);
-
   expect(deserialized).toEqual(object);
 });
