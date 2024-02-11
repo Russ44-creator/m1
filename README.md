@@ -1,7 +1,7 @@
 # M1: Serialization / Deserialization
-> Full name: `<first last>`
-> Email:  `<email@brown.edu>`
-> Username:  `cslogin`
+> Full name: `Lingfeng Deng`
+> Email:  `<lingfeng_deng@brown.edu>`
+> Username:  `dlingfen`
 
 ## Summary
 > Summarize your implementation, including key challenges you encountered
